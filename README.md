@@ -113,7 +113,7 @@ vector-cli/
 
 ## 🧐 Tech Stack
 
-- **Python 3.10+**
+- **Python 3.9+**
 - **Typer** – Modern CLI framework
 - **Sentence Transformers** – Open-source text embeddings
 - **Qdrant** – Vector database (runs locally via Docker)
@@ -126,12 +126,6 @@ vector-cli/
 - Improved export options (custom filters, advanced queries).
 - Support for multi-label categories.
 - Authentication for production deployments.
-
----
-
-## 🕋️ License
-
-This project is open source and free to use under the [MIT License](LICENSE).
 
 ---
 
