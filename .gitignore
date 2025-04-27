@@ -1,0 +1,21 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# VSCode settings (optional, if you use VSCode)
+.vscode/
+
+# Output folders
+outputs/
+exported_data/
+exported_search/
+
+# System files (Mac)
+.DS_Store
+
