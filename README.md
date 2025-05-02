@@ -1,3 +1,4 @@
+![Vector CLI Banner](vector_cli_project_banner.png)
 # 📚 Vector CLI - Search, Manage, and Export Your Text Embeddings
 
 **Vector CLI** is a Python-based command-line tool to manage datasets with text embeddings, store them into a vector database (Qdrant), search over them, and export results.
